@@ -69,7 +69,11 @@ class _OnboardingScreenState extends ConsumerState<OnboardingScreen> {
       await prefs.setBool('onboarding_done', true);
       if (mounted) context.go('/home');
     } else {
-      ScaffoldMessenger.of(context).showSnackBar(SnackBar(content: Text(t.permMicWhy)));
+      ScaffoldMessenger.of(context).showSnackBar(
+  SnackBar(
+    content: Text(AppLocalizations.of(context).permMicWhy),
+  ),
+);
     }
   }
 }
