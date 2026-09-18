@@ -1,0 +1,66 @@
+{
+  "@@locale": "ar",
+  "appName": "Quietly",
+  "onbTitle1": "استمع إلى صوت الميكروفون مع تقليل الضوضاء.",
+  "onbTitle2": "وصّل سماعات الرأس أولاً. يعيد التطبيق تشغيل صوت الميكروفون المعالج. لا يعالج صوت التطبيقات الأخرى ولا يوفر إلغاء الضوضاء النشط.",
+  "onbTitle3": "اسمح بالوصول إلى الميكروفون للبدء.",
+  "permMic": "الميكروفون",
+  "permMicWhy": "مطلوب لالتقاط صوت الميكروفون ومعالجته.",
+  "permNotif": "الإشعارات",
+  "permNotifWhy": "اختياري: إظهار إشعار الميكروفون النشط.",
+  "grant": "منح الأذونات",
+  "continueBtn": "متابعة",
+  "before": "قبل",
+  "after": "بعد",
+  "modeAnc": "تقليل الضوضاء",
+  "modePower": "توفير طاقة",
+  "modeTransparency": "استماع",
+  "tapToStart": "اضغط للتشغيل",
+  "tapToStop": "اضغط للإيقاف",
+  "isolating": "الاستماع",
+  "latencyMs": "تقدير التخزين {ms} مللي ثانية",
+  "@latencyMs": {
+    "placeholders": {
+      "ms": {
+        "type": "int"
+      }
+    }
+  },
+  "sessionTime": "الجلسة {time}",
+  "@sessionTime": {
+    "placeholders": {
+      "time": {
+        "type": "String"
+      }
+    }
+  },
+  "callIsolation": "العزل أثناء المكالمات",
+  "callIsolationDesc": "صوت نقي تماماً خلال واتساب وزووم والمكالمات.",
+  "unlock": "فعّل — {price}/شهر",
+  "@unlock": {
+    "placeholders": {
+      "price": {
+        "type": "String"
+      }
+    }
+  },
+  "restore": "استعادة الشراء",
+  "settings": "الإعدادات",
+  "autoStartBt": "تشغيل تلقائي عند توصيل بلوتوث",
+  "eqPreset": "ملف الصوت",
+  "eqCall": "مكالمة",
+  "eqMusic": "موسيقى",
+  "eqMovie": "فيلم",
+  "weakDevice": "جهازك قديم نسبياً — يُنصح بوضع توفير الطاقة.",
+  "batteryHigh": "استهلاك البطارية مرتفع. تم التحويل لتوفير الطاقة.",
+  "privacy": "سياسة الخصوصية",
+  "terms": "الشروط",
+  "version": "الإصدار {v}",
+  "@version": {
+    "placeholders": {
+      "v": {
+        "type": "String"
+      }
+    }
+  }
+}

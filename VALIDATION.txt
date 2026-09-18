@@ -1,0 +1,2 @@
+PASS: Android XML, localization JSON, YAML, relative Dart imports, microphone permission and service declarations.
+NOT RUN: Dart analyzer, Flutter unit tests, APK compilation, physical-device tests.
